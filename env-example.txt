@@ -1,0 +1,14 @@
+# Environment 'development', 'test', or 'production'
+ENV=development
+
+LOG_LEVEL=DEBUG
+LOG_DIR=XXX
+
+MQ_HOST=XXX
+MQ_PORT=XXX
+MQ_USER=XXX
+MQ_PASSWORD=XXX
+QUEUE_NAME=/queue/dais-notify
+
+MESSAGE_EXPIRATION_MS=36000000
+
